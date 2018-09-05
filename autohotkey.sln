@@ -3,6 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DC62B1E8-65F9-4AA2-B371-1E8B932D5B8A}"
+	ProjectSection(SolutionItems) = preProject
+		ControlTabs.ahk = ControlTabs.ahk
+		glabel.ahk = glabel.ahk
+		GuiExample1.ahk = GuiExample1.ahk
+		ImageViewer.ahk = ImageViewer.ahk
+		ListFiles.ahk = ListFiles.ahk
+		LoadImage.ahk = LoadImage.ahk
+		NameInput.ahk = NameInput.ahk
+		Notepad.ahk = Notepad.ahk
+		OSD.ahk = OSD.ahk
+		ProgressBg.ahk = ProgressBg.ahk
+		ToolTip.ahk = ToolTip.ahk
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
